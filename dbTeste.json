@@ -1,0 +1,19 @@
+{
+    "produts": [
+      { "id": 1, "name": " Bicicleta 29 GTS M1", "price": 711.99, "image": "https://images.tcdn.com.br/img/img_prod/394779/bicicleta_i_vtec_beach_caicara_aro_29_freio_a_disco_3147_variacao_10867_2_7ff689e6a5f5db6acbae942ab15f5f0e_20220530165912.jpg" },
+      { "id": 2, "name": "Bicicleta Invictus", "price": 715.50, "image": "https://www.sensebike.com.br/cdn/shop/files/01_d5dc4537-5ff2-4402-844c-cd6cdbcd8d6a.jpg?v=1737137935&width=960" },
+      { "id": 3, "name": "Bicicleta Feminina 26 ", "price": 830.00, "image": "https://images.tcdn.com.br/img/img_prod/394779/bicicleta_feminina_26_gts_m1_freio_v_brake_7v_tsi7_ks_retro_672_variacao_4245_1_b60c6fa3c2e89865f10b7b4eaea25cfe.jpg" },
+      
+      
+      
+      
+      { "id": 4, "name": "BICICLETA INFANTIL ARO 12", "price": 870.00, "image": "https://images.tcdn.com.br/img/img_prod/1112018/bicicleta_infantil_aro_12_nathor_spider_man_c_rodinhas_1525_1_afd530f3e5bb261ecb10034592f46784.jpg" },
+      { "id": 5, "name": "BICICLETA 26 VIKINGX ", "price": 854.00, "image": "https://images.tcdn.com.br/img/img_prod/1112018/bicicleta_26_vikingx_21v_index_tuff_x_35_2397_1_8932e89d4306b128626c47beba15e4f3.jpg" },
+      
+      { "id": 6, "name": "Bicicleta 29 GTS M1", "price": 870.00, "image": "https://images.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_hidraulico_cambio_gtsm1_tsi9_27_marchas_e_amortecedor_com_trava_g_3799_variacao_12579_2_ebe709519b54d4167743b14c42994e3b_20220530170342.jpg" }
+    
+  
+    
+    ],
+    "cart": []
+  }

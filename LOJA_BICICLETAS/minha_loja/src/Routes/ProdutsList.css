@@ -1,0 +1,156 @@
+
+h2{
+    text-align: center;
+}
+        
+    .produts-item{
+        text-align: center;
+        border: 5px solid#ccc;
+        margin-left: .4rem;
+  
+
+      display: flex;
+
+      flex-direction: column;
+ 
+      margin-bottom: 2rem;
+    width: 280px;
+    height: 300px;
+    
+    }
+    .produts-item img{
+        max-width: 250px;
+        max-height: 250px;
+     
+    
+
+
+    }
+   #produts-container {
+    display: flex;
+ 
+flex-direction: row;
+flex-wrap: wrap;
+
+
+   }
+
+   
+.details-produts{
+ 
+    max-width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+gap: 1rem;
+
+}
+.details-produts p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+   .details-produts img {
+ max-width: 500px;
+
+   }
+   .details-produts button {
+    
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+border: none;
+max-width: 100%;
+height: 50px;
+margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ccc;
+    padding: 5px;
+   }
+   .details-produts button:hover {
+border: 2px solid black;
+   }
+    .details-produts a {
+        text-decoration: none;
+        color: black;
+        transition: .7s;
+    }
+    .details-produts a:hover {
+        color: blue;
+    }
+
+    .summary-cart {
+  
+        max-width: 100%;
+        height: 100px;
+margin-bottom: 1rem;
+        display: flex;
+   flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+
+        
+    }
+    .summary-cart img {
+        width: 70px;
+        height: 70px;
+       
+    }
+     .summary-cart button {
+height:50px;
+width:100px ;
+cursor: pointer;
+border-radius: 5px ;
+border: none;
+font-weight: bold;
+     }
+     .summary-cart button:hover {
+        border: 1px solid blue;
+        
+     }
+
+
+     .summary-cart p {
+display: flex;
+flex-direction: row;
+margin-left: 1rem;
+margin-right: .5rem;
+        white-space: nowrap;
+
+     }
+
+
+     .cart p,.cart button {
+        margin-top: 1rem;
+        font-weight: bold;
+        text-align: center;
+        margin-bottom: 1rem;
+      
+     }
+     .cart a {
+  border-radius: 4px;
+     padding: .5rem;
+     
+
+transition: .7s;
+     }
+     .cart a:hover {
+        border: 1px solid blue;
+
+     }
+     .cart button {
+        height: 30px;
+
+     }
+     .cart {
+        box-shadow: rgb(47, 47, 61) 0px 7px 29px 0px;
+        max-height: 100%;
+     }
+     #button{
+        display: flex;
+    margin: .5rem auto;
+        align-items: center;
+     }
