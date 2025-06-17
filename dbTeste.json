@@ -8,10 +8,9 @@
       
       
       { "id": 4, "name": "BICICLETA INFANTIL ARO 12", "price": 870.00, "image": "https://images.tcdn.com.br/img/img_prod/1112018/bicicleta_infantil_aro_12_nathor_spider_man_c_rodinhas_1525_1_afd530f3e5bb261ecb10034592f46784.jpg" },
-      { "id": 5, "name": "BICICLETA 26 VIKINGX ", "price": 854.00, "image": "https://images.tcdn.com.br/img/img_prod/1112018/bicicleta_26_vikingx_21v_index_tuff_x_35_2397_1_8932e89d4306b128626c47beba15e4f3.jpg" },
+      { "id": 5, "name": "BICICLETA 26 VIKINGX ", "price": 854.00, "image": "https://dcdn-us.mitiendanube.com/stores/001/316/701/products/b81a0844-b84b-4940-8449-50657c9202a8-8ac1e2d23912d0552017169195771812-1024-1024.jpg" },
       
-      { "id": 6, "name": "Bicicleta 29 GTS M1", "price": 870.00, "image": "https://images.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_hidraulico_cambio_gtsm1_tsi9_27_marchas_e_amortecedor_com_trava_g_3799_variacao_12579_2_ebe709519b54d4167743b14c42994e3b_20220530170342.jpg" }
-    
+      { "id": 6, "name": "Bicicleta 29 GTS M1", "price": 870.00, "image": "https://images.tcdn.com.br/img/img_prod/394779/bicicleta_gts_aro_29_freio_a_disco_hidraulico_cambio_gtsm1_tsi9_27_marchas_e_amortecedor_com_trava_g_3799_variacao_12579_2_ebe709519b54d4167743b14c42994e3b_20220530170342.jpg" }  
   
     
     ],
