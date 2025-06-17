@@ -2,6 +2,8 @@
  align-items: center;
  display: flex;
  flex-direction: column;
+
+
     }
     h2{
         margin-bottom: 1rem;
@@ -31,6 +33,7 @@ gap: 3rem;
 
     gap: 1rem;
     text-decoration: none;
+ 
 }
 
 #navbar ul{
@@ -41,23 +44,26 @@ list-style-type: none;
 cursor: pointer;
 
 
+
 }
-#navbar li {
-   
+.btn-home{
+margin-right: 15rem;
+margin-left: 15rem;
+ 
+    width: 120px;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
+.btn-home:hover{
+  border-radius: 10px;
+  background-color: #ccc;
+        
+    }
     
 
- display: flex;
-justify-content: center;
-align-items: center;
-font-weight: bold;
 
 
 
- padding: .5rem 2rem;
 
-}
-#navbar li:hover {
-    border: 2px solid blue;
-    border-radius: 5px;
-  
-}
