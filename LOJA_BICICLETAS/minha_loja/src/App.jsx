@@ -35,13 +35,14 @@ function App() {
         <ul>
 
 <li>
-<Link to="/" >Loja</Link>
+<Link to="/" ><button className='btn-home'>Loja</button></Link>
 </li>
 <li>
-<Link to="/cart">Carrinho ({cart.reduce((acc, item) => acc + item.quantidade, 0)})</Link>
+<Link to="/cart"><button className='btn-home'>Carrinho  ({cart.reduce((acc, item) => acc + item.quantidade, 0)})</button></Link>
 </li>
 
         </ul>
+
        
           
         </nav>
