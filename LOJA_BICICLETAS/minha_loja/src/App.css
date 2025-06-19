@@ -15,6 +15,7 @@ display: grid;
 flex-direction: column;
 max-width: 900px;
 box-shadow: rgb(47, 47, 61) 0px 7px 29px 0px;
+padding: 1rem;
 }
 
 #navbar{
@@ -47,9 +48,10 @@ cursor: pointer;
 
 }
 .btn-home{
+
 margin-right: 15rem;
 margin-left: 15rem;
- 
+
     width: 120px;
     height: 50px;
     font-weight: bold;
