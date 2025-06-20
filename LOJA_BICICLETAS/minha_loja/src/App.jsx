@@ -5,6 +5,9 @@ import ProdutsList from './Routes/ProdutsList';
 import DetailsProduts from './components/DetailsProduts';
 import Cart from './Routes/Cart'
 import './App.css'
+import { ImCart } from "react-icons/im";
+import { FaStore } from "react-icons/fa";
+
 
 function App() {
   const [cart, setCart] = useState([]);
@@ -26,8 +29,10 @@ function App() {
 
   return (
     <Router>
+
+   
       <div className='app'>
-        
+     
        <div id='navbar'>
        <nav >
 
@@ -35,10 +40,10 @@ function App() {
         <ul>
 
 <li>
-<Link to="/" ><button className='btn-home'>Loja</button></Link>
+<Link to="/" ><button className='btn-home'><FaStore className='icon' /> Loja</button></Link>
 </li>
 <li>
-<Link to="/cart"><button className='btn-home'>Carrinho  ({cart.reduce((acc, item) => acc + item.quantidade, 0)})</button></Link>
+<Link to="/cart"><button className='btn-home'> <ImCart  className='icon'/> Carrinho({cart.reduce((acc, item) => acc + item.quantidade, 0)})</button></Link>
 </li>
 
         </ul>
